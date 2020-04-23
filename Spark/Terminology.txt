@@ -1,0 +1,4 @@
+Hadoop (file) - Spark (in memory)
+Lazy Evaluation
+implements Serializable :class oluştururken yazmamızın nedeni claster mantığında dağıtılabilmesi için
+
